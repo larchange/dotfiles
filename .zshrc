@@ -23,7 +23,6 @@ alias q="exit"
 alias wq="exit"
 alias q!="exit"
 alias shelllevel='echo `echo $SHLVL`'
-alias vim="vim -X"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
